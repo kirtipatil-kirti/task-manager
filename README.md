@@ -2,6 +2,10 @@
 
 A full-stack task management web application built with the MERN stack (MongoDB, Express, React, Node.js). Users can register, log in securely, and manage their personal tasks with priorities, due dates, and status tracking.
 
+
+Render llve url for backend:https://task-manager-zv25.onrender.com
+Vercel live url for frontend:https://task-manager-rouge-gamma-94.vercel.app
+
 ## 🚀 Features
 
 - **Authentication** — Secure register/login with JWT tokens and bcrypt password hashing
